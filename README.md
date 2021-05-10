@@ -1,6 +1,11 @@
 <h1 align="center">Arboles de decision</h1>
 <p align="center">Predecir el desempeño de los estudiantes</p>
 
+<p align="center">
+  <img src="https://github.com/adonis7ejeda/arboles_decision/Cname.png"
+	    alt="HolbertonBnB logo">
+</p>
+
 [![lisence](https://img.shields.io/github/license/adonis7ejeda/AirBnB_clone_v2?style=plastic)](https://github.com/adonis7ejeda/AirBnB_clone_v2/blob/master/LICENSE)
 [![Twitter Adonis](https://img.shields.io/twitter/follow/Adonis7ejeda?label=AdonisTejeda&style=social)](https://twitter.com/Adonis7ejeda)
 
