@@ -17,6 +17,7 @@ Estos datos se acercan al rendimiento de los estudiantes en la educación secund
 * [Anaconda](https://www.anaconda.com/)
 * [Jupyter notebook](https://jupyter.org/)
 * [Python](https://www.python.org/)
+* [Graphviz](https://graphviz.org/)
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Scikit-learn](https://scikit-learn.org/stable/)
